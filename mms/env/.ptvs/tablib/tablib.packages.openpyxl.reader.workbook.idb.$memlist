@@ -1,0 +1,15 @@
+datetime
+read_sheets_titles
+read_properties_core
+DocumentProperties
+W3CDTF_to_datetime
+read_named_ranges
+fromstring
+BUGGY_NAMED_RANGES
+split_named_range
+get_number_of_parts
+DISCARDED_RANGES
+NamedRange
+get_sheet_ids
+NAMESPACES
+QName

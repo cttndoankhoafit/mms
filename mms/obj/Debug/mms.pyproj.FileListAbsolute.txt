@@ -1,0 +1,15 @@
+C:\Users\nguye\Documents\Visual Studio 2015\Projects\mms\mms\bin\Microsoft.PythonTools.WebRole.dll
+C:\Users\nguye\Documents\Visual Studio 2015\Projects\mms\mms\obj\Debug\attach_server.py
+C:\Users\nguye\Documents\Visual Studio 2015\Projects\mms\mms\obj\Debug\visualstudio_py_debugger.py
+C:\Users\nguye\Documents\Visual Studio 2015\Projects\mms\mms\obj\Debug\visualstudio_py_repl.py
+C:\Users\nguye\Documents\Visual Studio 2015\Projects\mms\mms\obj\Debug\visualstudio_py_util.py
+C:\Users\nguye\Documents\Visual Studio 2015\Projects\mms\mms\obj\Debug\__init__.py
+C:\Users\nguye\Documents\Visual Studio 2015\Projects\mms\mms\obj\Debug\__main__.py
+C:\Users\nguye\Documents\Visual Studio 2015\Projects\mms\mms\bin\AzureSetup.cfg
+C:\Users\nguye\Documents\Visual Studio 2015\Projects\mms\mms\bin\Microsoft.PythonTools.AzureSetup.exe
+C:\Users\nguye\Documents\Visual Studio 2015\Projects\mms\mms\bin\Microsoft.PythonTools.AzureSetup.exe.config
+C:\Users\nguye\Documents\Visual Studio 2015\Projects\mms\mms\bin\wfastcgi.py
+C:\Users\nguye\Documents\Visual Studio 2015\Projects\mms\mms\obj\Debug\deployment-updated-orig-prefix.txt
+C:\Users\nguye\Documents\Visual Studio 2015\Projects\mms\mms\ptvs_virtualenv_proxy.py
+C:\Users\nguye\Documents\Visual Studio 2015\Projects\mms\mms\obj\Debug\web.config
+C:\Users\nguye\Documents\Visual Studio 2015\Projects\mms\mms\obj\Debug\web.debug.config

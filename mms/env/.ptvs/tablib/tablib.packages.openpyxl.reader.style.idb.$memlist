@@ -1,0 +1,7 @@
+read_style_table
+Style
+NumberFormat
+parse_custom_num_formats
+MissingNumberFormat
+fromstring
+QName

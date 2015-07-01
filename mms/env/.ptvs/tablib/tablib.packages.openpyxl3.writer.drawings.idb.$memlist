@@ -1,0 +1,5 @@
+Element
+DrawingWriter
+SubElement
+ShapeWriter
+get_document_content

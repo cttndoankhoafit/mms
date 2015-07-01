@@ -1,0 +1,15 @@
+_XLDAYS_TOO_LARGE
+_days_in_month
+XLDateError
+ifd
+XLDateAmbiguous
+_leap
+XLDateBadDatemode
+xldate_from_datetime_tuple
+xldate_from_time_tuple
+XLDateBadTuple
+xldate_as_tuple
+XLDateTooLarge
+xldate_from_date_tuple
+_JDN_delta
+XLDateNegative

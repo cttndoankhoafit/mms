@@ -1,0 +1,6 @@
+get_string
+NAMESPACES
+get_text
+fromstring
+QName
+read_string_table

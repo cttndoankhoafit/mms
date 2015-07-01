@@ -1,0 +1,10 @@
+ColumnStringIndexException
+InvalidFileException
+DataTypeException
+CellCoordinatesException
+InsufficientCoordinatesException
+ReadOnlyWorkbookException
+NamedRangeException
+MissingNumberFormat
+OpenModeError
+SheetTitleException

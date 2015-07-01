@@ -1,0 +1,17 @@
+unicode_literals
+NumberWidget
+ManyToManyWidget
+smart_text
+DecimalWidget
+Decimal
+datetime
+settings
+Widget
+CharWidget
+ForeignKeyWidget
+IntegerWidget
+force_text
+BooleanWidget
+DateWidget
+DateTimeWidget
+datetime_safe
