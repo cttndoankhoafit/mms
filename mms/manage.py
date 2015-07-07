@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 """
 Command-line utility for administrative tasks.
+Sửa lần cuối bởi: Thiên Tứ
 """
 
 import os
